@@ -13,5 +13,5 @@ Multi-matrix fan automation system based on human detection.
 4. To quit (not in life) hit '*q*'.
 
 
-![3](https://github.com/user-attachments/assets/faeed716-7c5a-4470-8703-1ac4282f82a0)
-![4](https://github.com/user-attachments/assets/e3e021e6-c38f-4e05-bf9e-14b1933186c0)
+![Screenshot 2025-05-12 154239](https://github.com/user-attachments/assets/163aa886-2694-4802-be07-2008d9a77cd3)
+![Screenshot 2025-05-12 154007](https://github.com/user-attachments/assets/7c01dfb9-0f26-4426-aba5-f420cf575bab)
